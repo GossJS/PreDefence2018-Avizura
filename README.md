@@ -8,3 +8,9 @@
 * PDF и/или shower со слайдами
 * 2-3 вопроса, которые, как вы предполагаете, вам логично задать и проекты ответов на них
 * возможно, что-то ещё на ваше усмотрение  
+
+
+
+* https://drive.google.com/drive/folders/1WFQBp4hNTM_rnFUJ0V4uiNeIQiG-ep5-
+* https://www.youtube.com/watch?v=v5XVgrWJ8TU
+* – А какой самый крутой фреймворк? – JQuery
